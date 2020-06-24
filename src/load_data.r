@@ -1,0 +1,1 @@
+mlbPlayers = read.table(file=file.choose(), header=T, sep=" ", na.strings="`", stringsAsFactors=F)
